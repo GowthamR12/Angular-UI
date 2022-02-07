@@ -1,0 +1,15 @@
+.list-item-active{
+    color:black;
+    width:100%;
+  
+}
+
+.list-item-active:hover{
+    color:white;
+    background-color: #00B5AD;
+    width:100%;
+}
+.list-item-active:active{
+    color:white;
+    background-color: #00B5AD;
+}
